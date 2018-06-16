@@ -3,6 +3,6 @@ public class Hello {
       // Prints "Hello, World" in the terminal window.
       System.out.println("Hello, World!!");
       System.out.println("Trying to trigger a build Automatically");
-  	
+  	  System.out.println("Trying to trigger another build Automatically");
    }
 }
