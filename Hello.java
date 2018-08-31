@@ -5,3 +5,4 @@ public class Hello {
       System.out.println("Trying to trigger a build Automatically");
   	  System.out.println("Trying to trigger another build Automatically");
    }
+}
